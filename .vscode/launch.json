@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StudentsApplication",
+            "request": "launch",
+            "mainClass": "fr.wildcodeschool.students.StudentsApplication",
+            "projectName": "students"
+        }
+    ]
+}
